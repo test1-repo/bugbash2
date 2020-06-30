@@ -17,6 +17,11 @@
   </description>
   <dependencies>
     <dependency>
+      <groupId>org.jenkins-ci.main</groupId>
+      <artifactId>jenkins-core</artifactId>
+      <version>1.414</version>
+    </dependency>
+    <dependency>
       <groupId>com.google.guava</groupId>
       <artifactId>failureaccess</artifactId>
       <version>1.0.1</version>
